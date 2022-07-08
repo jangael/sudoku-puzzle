@@ -1,4 +1,4 @@
-﻿Final Project Proposal: Sudoku
+Final Project Proposal: Sudoku
 Team: Humza and Jangael
 
 
